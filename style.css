@@ -169,15 +169,15 @@ header > div{
     background-position: center;
     background-repeat: no-repeat;
     border-top: 0.2rem solid #fff;
-    /* border-bottom: 0.2rem solid #fff; */
+    
 }
 
 .Mac-iPad{
     
     display: flex;
-    justify-content: space-between; /* Space between the two sections */
+    justify-content: space-between; 
     align-items: center;
-    gap: 1.5rem; /* Adds space between the elements */
+    gap: 1.5rem; 
     padding: 1.5rem;
     margin-top: none;
     
@@ -191,7 +191,6 @@ header > div{
     justify-content: flex-start;
     align-items:center;
     padding: 5%;
-    /* padding-top: 0%; */
     padding-bottom: 10%;
     background-size: cover;
     background-position: center;
@@ -207,9 +206,7 @@ header > div{
     background: url(images/promo_ipadpro_avail__s271j89g8kii_large_2x.jpg);
     display: flex;
     flex-direction: column;
-    /* justify-content: space-around; */
     align-items:center;
-    /* gap: 2rem; */
     padding: 5%;
     padding-bottom: 10%;
     background-size: cover;
@@ -225,17 +222,14 @@ header > div{
     letter-spacing: -0.005rem;
     font-weight: 570;
     padding: 0;
-    
-    
-    
 }
 
 .Airpods{
     
     display: flex;
-    justify-content: space-between; /* Space between the two sections */
+    justify-content: space-between; 
     align-items: center;
-    gap: 1.5rem; /* Adds space between the elements */
+    gap: 1.5rem; 
     padding: 1.5rem;
     margin-top: -2rem;
     
@@ -250,8 +244,6 @@ header > div{
     justify-content: flex-end;
     align-items:center;
     padding: 5%;
-    /* padding-top: auto; */
-    /* margin-top: auto; */
     padding-bottom: 10%;
     background-size: cover;
     background-position: center;
@@ -267,9 +259,7 @@ header > div{
     background: url(images/promo_iphone_tradein__bugw15ka691e_large_2x.jpg);
     display: flex;
     flex-direction: column;
-    /* justify-content: space-around; */
     align-items:center;
-    /* gap: 2rem; */
     padding: 5%;
     padding-bottom: 10%;
     background-size: cover;
@@ -288,9 +278,9 @@ header > div{
 .valentine{
     
     display: flex;
-    justify-content: space-between; /* Space between the two sections */
+    justify-content: space-between; 
     align-items: center;
-    gap: 1.5rem; /* Adds space between the elements */
+    gap: 1.5rem; 
     padding: 1.5rem;
     margin-top: 0rem;
     margin-bottom: -2rem;
@@ -306,8 +296,6 @@ header > div{
     justify-content: flex-end;
     align-items:center;
     padding: 5%;
-    /* padding-top: auto; */
-    
     padding-bottom: 10%;
     background-size: cover;
     background-position: center;
@@ -323,9 +311,7 @@ header > div{
     background: url(images/promo_apple_watch_unity__casvx9ysh1le_large_2x.jpg);
     display: flex;
     flex-direction: column;
-    /* justify-content: space-around; */
     align-items:center;
-    /* gap: 2rem; */
     padding: 5%;
     padding-bottom: 10%;
     background-size: cover;
